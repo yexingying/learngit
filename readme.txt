@@ -8,3 +8,4 @@ Git tracks changes of files.
 Debian Linux.
 versin 11
 My stupid boss still prefers SVN.
+Test it.
